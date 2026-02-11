@@ -1,48 +1,100 @@
-# 👋 ¡Hola! Soy Angel  
+# 👋 Hola, soy Angel  
 
-### 🚀 Desarrollador Backend | 💡 Estudiante de DAM  
+### 🏗 Backend Engineer | Arquitectura Backend | Java & Spring Ecosystem  
 
-## 🌟 Sobre mí  
-Actualmente estoy cursando el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y me especializo en **Java**. También tengo experiencia en desarrollo web con **HTML** y **CSS**, y recientemente he comenzado a explorar **Python**.  
+---
 
-En el ámbito de bases de datos, trabajo con **MySQL** utilizando **Hibernate** y también tengo conocimientos en **MongoDB**. Me apasiona la programación y siempre busco aprender nuevas tecnologías para mejorar mis habilidades.  
+## 🚀 Perfil Profesional  
 
-### 🔧 Tecnologías y herramientas:  
-- 🚀 **Lenguajes:**  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+Soy **Backend Engineer en Qaroni**, con experiencia profesional desarrollando soluciones backend robustas en entornos productivos utilizando **Java 21 y Spring Boot 3**.  
 
-- 🗄 **Bases de Datos:**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-  ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+He finalizado **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente curso **Ingeniería Informática**, combinando formación académica con experiencia real en proyectos empresariales.  
 
-- 🔨 **Herramientas:**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)  
+Mi enfoque no es solo programar funcionalidades, sino diseñar sistemas backend bien estructurados, seguros y mantenibles, aplicando principios de arquitectura limpia, separación de responsabilidades y buenas prácticas de diseño.
 
-### 💻 Workspace:  
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
-  ![NetBeans](https://img.shields.io/badge/-NetBeans%20IDE-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)  
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  
+---
 
-### 📊 Estadísticas de GitHub  
+## 🧠 Especialización Técnica  
 
-| ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-angelcodes&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-angelcodes&langs_count=10&layout=compact&theme=radical) |
-|------------------------------------------------------------------|------------------------------------------------------------------|
+### 🏗 Arquitectura & Diseño  
+- Diseño de APIs REST escalables  
+- Arquitectura modular (Monolito Modular)  
+- Separación por capas y principios SOLID  
+- Seguridad basada en JWT  
+- Gestión de migraciones con versionado controlado  
+- Diseño consistente de respuestas API  
 
+### ☕ Backend Stack  
+![Java](https://img.shields.io/badge/-Java%2021-007396?style=flat&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)  
+![JPA](https://img.shields.io/badge/-JPA-007396?style=flat&logo=java&logoColor=white)  
+![Flyway](https://img.shields.io/badge/-Flyway-CC0200?style=flat&logo=flyway&logoColor=white)  
 
-### 🛠 Proyectos en los que he trabajado:  
-- 🎮 **Proyecto Scape Room**  
-  Un proyecto en el que participé activamente en el trabajo inicial de otro desarrollador.  
-  📌 Repositorio: [Proyecto Scape Room](https://github.com/JacoboMovellan/ProyectoScapeRoom)  
+### 🗄 Persistencia  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
-### 📫 ¡Conéctate conmigo!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-fernandez-blanco-514951296/)  
+### 🐳 Infraestructura & Dev Workflow  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+
+---
+
+## 🏢 Experiencia Profesional  
+
+### 💼 Backend Engineer — Qaroni  
+📅 11 meses  
+
+En Qaroni participo en el desarrollo de soluciones backend empresariales donde he trabajado en:
+
+- Diseño e implementación de APIs REST con Spring Boot  
+- Implementación de autenticación y autorización con Spring Security (JWT)  
+- Modelado de datos y persistencia con Hibernate / JPA  
+- Control de versiones de base de datos mediante Flyway  
+- Aplicación de buenas prácticas de arquitectura y seguridad  
+- Trabajo colaborativo en entornos productivos reales  
+
+Durante este tiempo he consolidado una base sólida en el ecosistema Spring aplicado a proyectos empresariales.
+
+---
+
+## 🚗 Proyecto Personal — VexorMotors  
+
+Backend modular desarrollado como laboratorio de arquitectura personal.
+
+### Stack:
+- Java 21  
+- Spring Boot 3  
+- Spring Security (JWT)  
+- PostgreSQL  
+- Flyway  
+- Gradle Multi-Module  
+
+### Enfoque:
+- Arquitectura modular bien definida  
+- Separación clara de responsabilidades  
+- Seguridad desacoplada  
+- Diseño estructurado de respuestas API  
+- Evolución progresiva hacia contenerización con Docker  
+
+Este proyecto refleja mi interés por el diseño backend bien estructurado más allá de la simple implementación funcional.
+---
+
+## 🎯 Enfoque Profesional  
+
+Actualmente estoy orientando mi crecimiento hacia:  
+
+- Arquitectura backend avanzada  
+- Sistemas escalables  
+- Buenas prácticas de diseño  
+- Infraestructura y despliegue (Docker)  
+- Evolución hacia perfiles más orientados a arquitectura técnica  
+
+---
+
+ 
