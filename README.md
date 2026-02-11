@@ -37,6 +37,13 @@ Mi enfoque no es solo programar funcionalidades, sino diseñar sistemas backend 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
+### 🧩 Otros Lenguajes  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
+
+Conocimientos básicos en **Python y PHP**, utilizados en proyectos académicos, laborales y personales.
+
+
 ### 🐳 Infraestructura & Dev Workflow  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)  
