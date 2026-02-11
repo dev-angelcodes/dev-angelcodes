@@ -39,9 +39,10 @@ Mi enfoque no es solo programar funcionalidades, sino diseñar sistemas backend 
 
 ### 🧩 Otros Lenguajes  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
 
-Conocimientos básicos en **Python y PHP**(Laravel), utilizados en proyectos académicos, laborales y personales.
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)    ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+
+Conocimientos básicos en **Python y PHP (Laravel)**, utilizados en proyectos académicos y personales.
 
 
 ### 🐳 Infraestructura & Dev Workflow  
